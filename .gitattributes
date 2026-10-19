@@ -1,0 +1,2 @@
+# Markdown 文档在仓库中统一使用 LF 换行。
+*.md text eol=lf
